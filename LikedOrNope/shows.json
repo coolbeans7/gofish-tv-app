@@ -1,0 +1,34 @@
+ [
+  {
+  "name": "Finn",
+  "image": "finn",
+  "age": 15,
+  "numberOfSharedFriends": 3,
+  "numberOfSharedInterests": 2,
+  "numberOfPhotos": 1
+  },
+  {
+  "name": "Jake",
+  "image": "jake",
+  "age": 28,
+  "numberOfSharedFriends": 2,
+  "numberOfSharedInterests": 6,
+  "numberOfPhotos": 8
+  },
+  {
+  "name": "Fiona",
+  "image": "fiona",
+  "age": 14,
+  "numberOfSharedFriends": 1,
+  "numberOfSharedInterests": 3,
+  "numberOfPhotos": 5
+  },
+  {
+  "name": "P. Gumball",
+  "image": "prince",
+  "age": 18,
+  "numberOfSharedFriends": 1,
+  "numberOfSharedInterests": 1,
+  "numberOfPhotos": 2
+  }
+  ]
